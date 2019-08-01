@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+
+      "example_unique_block": {
+      "textures": "textures/blocks/example_unique_block"
+    }
+  }
+}

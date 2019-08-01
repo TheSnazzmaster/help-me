@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cooked_flesh": {
+      "textures": "textures/items/cooked_flesh.png"
+    },
+    "ok_hand": {
+      "textures": "textures/items/ok_hand.png"
+    }
+  }
+}

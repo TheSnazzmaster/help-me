@@ -1,0 +1,7 @@
+[
+{
+    "flipbook_texture": "textures/blocks/example_unique_block",
+    "atlas_tile": "example_unique_block",
+    "ticks_per_frame": 32
+  }
+]

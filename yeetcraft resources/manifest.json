@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "good stuff man, good stuff",
+        "name": "yeetcraft resources",
+        "uuid": "bb458106-5338-4423-94c9-e469c9c6bee6",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "like i said, good stuff",
+            "type": "resources",
+            "uuid": "0696d09f-4377-4d2f-9bd9-c3f61e07c7a0",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+
+    "template:example_unique_block": {
+    "textures": "example_unique_block",
+    "sound": "stone"
+  }
+}
