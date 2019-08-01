@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "yeet:ok_hand"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " #",
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "yeet:ok_hand",
+      "data": 0
+    }
+  }
+}

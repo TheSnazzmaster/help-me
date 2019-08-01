@@ -1,0 +1,9 @@
+{
+	"format_version": {},
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "yeet:furnace_flesh"
+		},
+		"tags": "[\"furnace\", \"smoker\", \"campfire\"],"
+	}
+}

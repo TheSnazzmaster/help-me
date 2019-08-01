@@ -1,0 +1,22 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "would you like yeet? then *yeet*",
+		"name": "yeetcraft",
+		"uuid": "c0dcc164-ad67-4e69-b619-5be23e6aeddf",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 0, 0 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4bd61e6b-5475-4805-ace5-57110e387449",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+            "type": "client_data",
+            "uuid": "034ae679-cff3-436a-9f91-2ade366ea952",
+            "version": [ 1, 0, 0 ]
+        }
+	]
+}
